@@ -1,0 +1,22 @@
+@import "../../common/color.scss";
+
+.table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.table-container {
+  border: 1px solid black;
+}
+.table-row {
+  color: black;
+  border: 1px solid black;
+  width: 100px;
+}
+
+.icon {
+  margin: 10px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
